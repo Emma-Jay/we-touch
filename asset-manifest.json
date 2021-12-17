@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/we-touch/static/css/main.073c9b0a.css",
+    "main.js": "/we-touch/static/js/main.4ccdc010.js",
+    "static/js/377.66a4e837.chunk.js": "/we-touch/static/js/377.66a4e837.chunk.js",
+    "service-worker.js": "/we-touch/service-worker.js",
+    "static/media/logo.svg": "/we-touch/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/we-touch/index.html",
+    "main.073c9b0a.css.map": "/we-touch/static/css/main.073c9b0a.css.map",
+    "main.4ccdc010.js.map": "/we-touch/static/js/main.4ccdc010.js.map",
+    "377.66a4e837.chunk.js.map": "/we-touch/static/js/377.66a4e837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4ccdc010.js"
+  ]
+}
